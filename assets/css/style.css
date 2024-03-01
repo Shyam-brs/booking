@@ -96,7 +96,7 @@ button:focus {
   -------------------------------------------------- */
 
 header .bg-gradient {
-  background: rgb(216, 216, 216);
+  background: rgba(216, 216, 216, 0.562);
 }
 
 body {
